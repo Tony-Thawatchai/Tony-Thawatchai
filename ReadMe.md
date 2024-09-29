@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Tony. PHP, React, React Native, Node.js, Java developer. Currently learning more Python, WebXR, and unity
+Hi! I'm Tony. PHP, React, React Native, Node.js, Java developer. Currently learning more Python, WebXR, and . Talk to me about bike, urban development, sustainability.
 
 
 # 💻 Tech Stack:
